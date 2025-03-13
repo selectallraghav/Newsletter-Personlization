@@ -21,9 +21,11 @@ This project is designed to automate the generation of personalized loan offer l
 ```
 ├── generated_template/              # Folder for storing generated loan letters
 ├── home_loan_template.html          # HTML template for loan letters
-├── generate_loan_letters.py         # Python script for generating the loan letters
+├── Product Targeting with Newsletter Personalization.ipynb         # Python script for generating the loan letters
 ├── customerDemographics.csv         # Sample customer demographics data (input)
-├── model_output_data.csv            # Model output data (input)
+├── model_output_data.csv            # Model output data (input from product targeting model)
+├── Auto_Loan_Template_Customer_Category_Mapping.csv                  # Customer category mapping data.
+├── merged_data.csv                  # Merged model_output_data with customer category mapping data.
 ├── README.md                        # This README file
 ```
 
