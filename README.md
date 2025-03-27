@@ -23,6 +23,7 @@ This project is designed to automate the generation of personalized loan offer l
 ├── home_loan_template.html          # HTML template for loan letters
 ├── Product Targeting with Newsletter Personalization.ipynb         # Python script for generating the loan letters
 ├── Product Targeting with Newsletter Personalization V2.ipynb         # Original script with dynamic inputs from the codebase and PostgreSQL DB
+├── newsletter_api.py #Application API
 ├── customerDemographics.csv         # Sample customer demographics data (input)
 ├── model_output_data.csv            # Model output data (input from product targeting model)
 ├── Auto_Loan_Template_Customer_Category_Mapping.csv                  # Customer category mapping data.
